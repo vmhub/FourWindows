@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FourWindows</string>
+    <string name="gotoSecond_button">Go to Second Screen</string>
+    <string name="first_screen">First Screen</string>
+    <string name="gotoThird_button">Go to Third Screen</string>
+    <string name="second_screen">Second Screen</string>
+    <string name="gotoFourth_button">Go to Fourth Screen</string>
+    <string name="third_screen">Third Screen</string>
+    <string name="gotoFirst_button">Go to First Screen</string>
+    <string name="fourth_screen">Fourth Screen</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_window_two">WindowTwo</string>
+    <string name="title_activity_window_three">WindowThree</string>
+    <string name="title_activity_window_four">WindowFour</string>
+</resources>
